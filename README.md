@@ -6,7 +6,7 @@ This repository is associated with the research project submitted to the "Worksh
 
 **Abstract:** This paper introduces a STARK-based batch verifier for a Merkle Signature Scheme (MSS) built from parallel Lamport-style one-time signatures and implemented in the Winterfell framework. The method compresses the validation of N signatures under a single Merkle root into a compact proof of 50-75 KiB. Verification then requires only a few dozen hash evaluations and completesin under 3.1 s for N = 64, outperforming naı̈ve per-signature checks for all N ≥ 8. Requiring no trusted setup, this approach paves the way for scalable, efficient validation of multiple post-quantum signatures.
 
-Many of the scripts available in this repository are an adaptation of the example implementations in [Winterfell][(https://github.com/facebook/winterfell)].
+Many of the scripts available in this repository are an adaptation of the example implementations in [Winterfell](https://github.com/facebook/winterfell).
 
 The following badges are used to guide reviewers:  
 - **Selo D - Available**: All source code, build instructions and documentation are present in this repository.  
