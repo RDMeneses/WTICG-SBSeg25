@@ -81,4 +81,4 @@ Note that the execution may take a while, specially for large batches. For the d
 ---
 # License
 
-This work is available under the MIT License.
+This work is released under the MIT License.
