@@ -16,7 +16,7 @@ The following badges are used to guide reviewers:
 
 ## Dependencies 
 
-*Rust toolchain:* requires Rust ≥ 1.87 (`rust-version = "1.87"`), pkg-config ≥ 0.29.1 (`pkg-config-version = "0.29.2"`).
+**Rust toolchain:** requires Rust ≥ 1.87 (`rust-version = "1.87"`), pkg-config ≥ 0.29.1 (`pkg-config-version = "0.29.2"`).
 
 We recommend using ``rustup`` for the toolchain installation:
 - `rustc` (the compiler);
