@@ -14,7 +14,7 @@ The following badges are used to guide reviewers:
 
 # Basic Information
 
-## Dependencies 
+## Dependencies (Ubuntu 20.04+)
 
 **Rust toolchain:** requires Rust ≥ 1.87 (`rust-version = "1.87"`), pkg-config ≥ 0.29.1 (`pkg-config-version = "0.29.2"`).
 
