@@ -25,18 +25,18 @@ We recommend using ``rustup`` for the toolchain installation:
 
 ## Build Instructions
 
-1. *Clone the repository*
+1. **Clone the repository**
 ```
 git clone https://github.com/facebook/winterfell.git
 cd winterfell
 ```
-2. *Building the project*
+2. **Building the project**
 ```
 make build
 # ⇢ runs: cargo build
 ```
 
-### Overview
+## Overview
 
 The workspace crates are organized as follows (all fetched automatically by Cargo):
 
