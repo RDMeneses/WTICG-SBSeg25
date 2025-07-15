@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository is associated with the research project submitted to the "Workshop de Trabalhos de Iniciação Científica e Graduação" (WTICG) of the "XXV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg 2025).
+This repository is associated with the research project submitted to the "Workshop de Trabalhos de Iniciação Científica e Graduação" (WTICG) of the "XXV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais" (SBSeg 2025).
 
 **Project Title:** Scalable Batch Verification for Hash-Based Post-Quantum Signatures Using STARKs
 
